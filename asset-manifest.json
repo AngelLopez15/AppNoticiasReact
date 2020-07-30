@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AppNoticiasReact/static/css/main.ca4d5737.chunk.css",
+    "main.js": "/AppNoticiasReact/static/js/main.517554bd.chunk.js",
+    "main.js.map": "/AppNoticiasReact/static/js/main.517554bd.chunk.js.map",
+    "runtime-main.js": "/AppNoticiasReact/static/js/runtime-main.9fd2fc5b.js",
+    "runtime-main.js.map": "/AppNoticiasReact/static/js/runtime-main.9fd2fc5b.js.map",
+    "static/js/2.d179136c.chunk.js": "/AppNoticiasReact/static/js/2.d179136c.chunk.js",
+    "static/js/2.d179136c.chunk.js.map": "/AppNoticiasReact/static/js/2.d179136c.chunk.js.map",
+    "index.html": "/AppNoticiasReact/index.html",
+    "precache-manifest.e19215c66377dc57a70181130bbc5037.js": "/AppNoticiasReact/precache-manifest.e19215c66377dc57a70181130bbc5037.js",
+    "service-worker.js": "/AppNoticiasReact/service-worker.js",
+    "static/css/main.ca4d5737.chunk.css.map": "/AppNoticiasReact/static/css/main.ca4d5737.chunk.css.map",
+    "static/js/2.d179136c.chunk.js.LICENSE.txt": "/AppNoticiasReact/static/js/2.d179136c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd2fc5b.js",
+    "static/js/2.d179136c.chunk.js",
+    "static/css/main.ca4d5737.chunk.css",
+    "static/js/main.517554bd.chunk.js"
+  ]
+}
